@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0953-reverse-only-letters](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0953-reverse-only-letters) |
 ## String
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0792-binary-search) |
 | [1791-richest-customer-wealth](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [3221-find-the-peaks](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/3221-find-the-peaks) |

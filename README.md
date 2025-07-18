@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0792-binary-search) |
 | [1791-richest-customer-wealth](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [3221-find-the-peaks](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/3221-find-the-peaks) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->

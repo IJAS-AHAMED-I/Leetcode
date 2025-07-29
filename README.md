@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0953-reverse-only-letters](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0953-reverse-only-letters) |
 ## Array
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0290-word-pattern) |
 ## Sorting
 |  |
 | ------- |

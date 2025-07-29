@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0283-move-zeroes) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0268-missing-number) |
 ## Math
@@ -135,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

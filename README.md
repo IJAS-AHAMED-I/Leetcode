@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0953-reverse-only-letters](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0953-reverse-only-letters) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0953-reverse-only-letters](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0953-reverse-only-letters) |
 ## Array

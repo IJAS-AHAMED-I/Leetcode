@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0389-find-the-difference) |
+| [0742-to-lower-case](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0742-to-lower-case) |
 | [0953-reverse-only-letters](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0953-reverse-only-letters) |
 ## Array
 |  |

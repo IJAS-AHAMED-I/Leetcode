@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

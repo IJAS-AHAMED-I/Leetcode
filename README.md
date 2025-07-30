@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0953-reverse-only-letters](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0953-reverse-only-letters) |
 ## String
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0792-binary-search) |
 | [1791-richest-customer-wealth](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [3221-find-the-peaks](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/3221-find-the-peaks) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |

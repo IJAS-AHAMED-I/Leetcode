@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0389-find-the-difference) |
+| [1635-number-of-good-pairs](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1635-number-of-good-pairs](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Sliding Window
 |  |
 | ------- |

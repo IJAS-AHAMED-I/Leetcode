@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0792-binary-search) |
+| [1603-running-sum-of-1d-array](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0792-binary-search) |
 | [1791-richest-customer-wealth](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [2048-build-array-from-permutation](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [3221-find-the-peaks](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/3221-find-the-peaks) |
 ## Divide and Conquer
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0067-add-binary) |
+| [2048-build-array-from-permutation](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/2048-build-array-from-permutation) |
 ## Memoization
 |  |
 | ------- |

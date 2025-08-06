@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0541-reverse-string-ii](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0861-flipping-an-image](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0861-flipping-an-image) |
 | [0953-reverse-only-letters](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0953-reverse-only-letters) |
 ## String
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0389-find-the-difference) |
+| [0541-reverse-string-ii](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0742-to-lower-case](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0742-to-lower-case) |
 | [0953-reverse-only-letters](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1899-count-items-matching-a-rule](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1899-count-items-matching-a-rule) |

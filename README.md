@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0861-flipping-an-image) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0861-flipping-an-image) |

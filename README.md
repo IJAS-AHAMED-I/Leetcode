@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0861-flipping-an-image) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Greedy
+|  |
+| ------- |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->

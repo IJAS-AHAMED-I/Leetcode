@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1031-add-to-array-form-of-integer](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1031-add-to-array-form-of-integer) |

@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0792-binary-search](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0861-flipping-an-image) |
+| [1031-add-to-array-form-of-integer](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1031-add-to-array-form-of-integer](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/IJAS-AHAMED-I/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
